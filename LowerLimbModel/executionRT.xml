@@ -35,8 +35,9 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
 	<EMGDevice>libEMG_UDP_Simulink.so</EMGDevice> <!-- custom for Personify, does not actually use simulink, uses UDP instead -->
 	<EMGDeviceFile>cfg/LowerLimbModel/executionEMG.xml</EMGDeviceFile>
 	
-	<AngleAndComsumerDevice>libOBEmpowerPlugin.so</AngleAndComsumerDevice>
+
 	<AngleDeviceFile>cfg/LowerLimbModel/executionIK_scale.xml</AngleDeviceFile> <!-- might not actually ever be used? -->
+  <AngleAndComsumerDevice>libPluginOBEmpower.so</AngleAndComsumerDevice>
   </ConsumerPlugin>
   <NameOfSubject>LowerLimbModel</NameOfSubject>
 </execution>
