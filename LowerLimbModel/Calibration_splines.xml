@@ -18,7 +18,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
 	<osimFile>cfg/LowerLimbModel/model/gait2392.osim</osimFile>
 	<subjectXML>cfg/LowerLimbModel/subjectPreCalibration.xml</subjectXML>
 	<nameOfSubject>LowerLimbModel</nameOfSubject>
-	<dofsSpline>ankle_angle_r</dofsSpline>
+	<dofsSpline>ankle_angle_r </dofsSpline>
 	<computeSpline>
 		<use>true</use>
 		<printingOption>3</printingOption>

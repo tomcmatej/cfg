@@ -1,0 +1,21 @@
+Length
+version=1
+nRows=9
+nColumns=3
+inDegrees=no
+
+This analysis gathers basic information about muscles during a simulation (e.g., forces, tendon lengths, moment arms, etc).
+Units are S.I. units (second, meters, Newtons, ...)
+If the header above contains a line with 'inDegrees', this indicates whether rotational values are in degrees (yes) or radians (no).
+
+endheader
+time	soleus_r	tib_ant_r
+      0.00000000	      0.23399357	      0.34575064
+      0.01000000	      0.24397696	      0.33916768
+      0.02000000	      0.25837043	      0.32969567
+      0.03000000	      0.27490442	      0.31771630
+      0.04000000	      0.29139796	      0.30378508
+      0.05000000	      0.30602235	      0.28875905
+      0.06000000	      0.31737891	      0.27424315
+      0.07000000	      0.32449643	      0.26405516
+      0.08000000	      0.32680930	      0.26477479

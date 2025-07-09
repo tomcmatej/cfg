@@ -3,7 +3,7 @@ nRows=6097
 nColumns=10
 
 endheader
-time	  soleus_r	 med_gas_r	 lat_gas_r	 tib_ant_r	 semimem_r	 bifemlh_r	 vas_lat_r	rect_fem_r	 vas_med_r	
+time	  soleus_r	 med_gas_r	 lat_gas_r	 tib_ant_r   tib_ant_l   soleus_l    med_gas_l   lat_gas_l	
 0	  0.070021	  0.195391	  0.069192	  0.022299	  0.007221	  0.004028	  0.005911	  0.004254	  0.006701	
 0.01	  0.069328	  0.174828	  0.058675	  0.019975	  0.007816	  0.004640	  0.006126	  0.004768	  0.006499	
 0.02	  0.068455	  0.157500	  0.048932	  0.018266	  0.008766	  0.005406	  0.006237	  0.005296	  0.006272	

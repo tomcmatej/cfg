@@ -26,7 +26,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
 	</computeSpline>
 	<calibration>
 		<use>true</use>
-		<objectiveFunction>StrengthCoefficients_ShapeFactor_TendonSlackLength_single</objectiveFunction>
+		<objectiveFunction>StrengthCoefficients_ShapeFactor_TendonSlackLength_single</objectiveFunction>	
 		<EMD>0.1</EMD>
 		<dofToCalibrate>
 			<dofs>ankle_angle_r</dofs>
@@ -44,6 +44,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
 			<epsilon>1.E-3</epsilon>
 			<maxNoEval>100000</maxNoEval>
 		</option>
+		 
 		<inputSubjectXMLName>subjectPreCalibration.xml</inputSubjectXMLName>
 		<outputSubjectXMLName>SubjectCalibrated.xml</outputSubjectXMLName>
 	</calibration>

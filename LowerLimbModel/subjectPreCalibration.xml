@@ -1047,7 +1047,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
   <DoFs>
 	<DoF>
       <name>ankle_angle_r</name>
-      <muscleSequence>tib_ant_r soleus_r med_gas_r lat_gas_r</muscleSequence>
+      <muscleSequence>tib_ant_r soleus_r</muscleSequence>
     </DoF>
   </DoFs>
   
@@ -1059,7 +1059,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
 	
 	<Channel>
 		<name>soleus_r</name>
-		<muscleSequence>soleus_r med_gas_r lat_gas_r</muscleSequence>
+		<muscleSequence>soleus_r</muscleSequence>
 	</Channel>
 	
   </Channels>
