@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<executionEMG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/home/pi/ceinms-rt/bin/Unix/../../XSD/executionEMG.xsd">
+<executionEMG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/home/tomcm/ceinms-rt/bin/Unix/../../XSD/executionEMG.xsd">
   <ip>127.0.0.1</ip>
   <port>31000</port>
   <hpFilter>
@@ -14,5 +14,5 @@
     <aCoeff>1 1</aCoeff>
     <bCoeff>1 1 1</bCoeff>
   </dcFilter>
-  <maxEMG>0.5 0.5</maxEMG>
+  <maxEMG>0.001 0.001</maxEMG>
 </executionEMG>

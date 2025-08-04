@@ -20,7 +20,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
      </type>
 
      <tendon>
-          <stiff/>
+          <elasticBiSec/>
      </tendon>
 
      <activation>

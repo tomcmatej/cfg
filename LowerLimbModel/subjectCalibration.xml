@@ -404,7 +404,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
       <pennationAngle>24.9999998282</pennationAngle>
       <tendonSlackLength>0.246520266638787</tendonSlackLength>
       <maxIsometricForce>3549</maxIsometricForce>
-      <strengthCoefficient>0.50000658823958</strengthCoefficient>
+      <strengthCoefficient>0.90000658823958</strengthCoefficient>
     </muscle>
     <muscle>
       <name>tib_post_r</name>
@@ -448,7 +448,7 @@ Massimo Sartori, Mohamed Irfan Refai, Lucas Avanci Gaudio, Christopher Pablo Cop
       <pennationAngle>4.99999985105</pennationAngle>
       <tendonSlackLength>0.214364679403058</tendonSlackLength>
       <maxIsometricForce>905</maxIsometricForce>
-      <strengthCoefficient>0.980261801573182</strengthCoefficient>
+      <strengthCoefficient>0.7980261801573182</strengthCoefficient>
     </muscle>
     <muscle>
       <name>per_brev_r</name>
